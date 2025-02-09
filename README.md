@@ -8,7 +8,7 @@ A simple web app that allows users to pick two colors and get the RGB gradient o
 - Updates in real-time as colors are selected.
 
 ## Live Demo
-[Check it out here](#) *(https://a-saleh-86.github.io/background-generator/)*  
+[Check it out here](https://a-saleh-86.github.io/background-generator/)
 
 ## Usage
 1. Clone the repository:
